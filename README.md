@@ -11,5 +11,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 ## Knowledgeable
+<img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"></a>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"></a>
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=fflat-square&logo=MongoDB&logoColor=white">
