@@ -69,7 +69,10 @@
 
 <div align="center">
     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkYoungJae&layout=compact&theme=dark)
+    
 ![YoungJae's github stats](https://github-readme-stats.vercel.app/api?username=kkkkYoungJae&show_icons=true)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudwodla123)](https://solved.ac/dudwodla123/)
     
 </div>
