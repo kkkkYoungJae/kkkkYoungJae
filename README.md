@@ -6,7 +6,7 @@
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     <a href="https://velog.io/@young-jev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-    <a href="https://bubble-verse-c87.notion.site/About-Young-Jae-188367733d6c46239870499296266e27?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <a href="https://bubble-verse-c87.notion.site/8cf2abf3dbb64bfd9855b65e6fffa23c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-genius%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
